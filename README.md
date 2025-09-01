@@ -1,5 +1,7 @@
 # 🗳️ Blockchain-based Voting System (Python)
 
+> Developed by **Muthu Praveen C - 220071601187**
+
 This project is a **basic blockchain implementation in Python** that simulates a voting system.  
 Each vote is stored as a block in the blockchain, ensuring immutability and transparency.
 
